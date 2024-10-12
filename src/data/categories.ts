@@ -1,6 +1,6 @@
 // List of categories for blog posts
 export const CATEGORIES = [
-	'How-To\'s',
+	'How2',
 	'Analysis',
 	'ELI5',
 	'Rants',
