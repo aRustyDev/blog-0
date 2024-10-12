@@ -30,6 +30,14 @@
 - ❌ Fix search when deployed to GH pages
 - ❌ Figure out Tina CMS (is it only available from local? does it break in GH Pages?)
 - ❌ Move most of this README to the wiki
+- ❌ Add Share Icon+Link for Email
+- ❌ Add Header Icon+Link for X (Fix sizing)
+- ❌ Add Header Icon+Link for HackTheBox
+- ❌ Add Header Icon+Link for LinkeIn
+- ❌ Add Header Icon+Link for Arxiv
+- ❌ Add Header Icon+Link for ACM
+- ❌ Add Header Icon+Link for HackerOne
+- ❌ Add Header Icon+Link for CVE (?)
 
 ## ⚙️ Stack
 
